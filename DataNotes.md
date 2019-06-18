@@ -13,6 +13,8 @@ Should I pull crime_data with call types for rape and go back and find their CFS
 
 A lot of the rapes (in CFS) had crime categories changed to Sex offense - other, indecent liberties
 
+Unfounded includes exceeding the statute of limitations. 
+
 
 
 ## Narative
